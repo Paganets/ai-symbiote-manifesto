@@ -2,7 +2,11 @@
 
 This repository contains the foundational documents for the AI-Symbiote project, a concept for a new generation of human-AI partnership focused on deep self-realization.
 
-[Read the full Manifesto in English](Manifest.md)
+Read the full Manifesto:
+ **[In English (Recommended)](Manifest_EN.md)**
+ [Also available in original Russian / Также доступно на языке оригинала](Manifest_RU.md)
+
+---
 
 ---
 
